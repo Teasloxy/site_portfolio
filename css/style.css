@@ -3,6 +3,7 @@ html {
   scroll-behavior: smooth;
 }
 
+
 body {
   font-family: "Inter", sans-serif;
   line-height: 1.7;
@@ -2942,4 +2943,13 @@ h4,
   content: "";
   height: 1px;
   background: #ebedee;
+}
+
+
+.backl {
+  background-image: url('../images/landscape-3.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  display: flex;
+  width: 100%;
 }
